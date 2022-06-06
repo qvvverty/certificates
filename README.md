@@ -5,4 +5,4 @@
 - [Основы JavaScript](/Netology/JS_basics.pdf)
 - [Основы JavaScript в браузере](/Netology/JS_basics_in_browser.pdf)
 - [Основы PHP](/Netology/PHP_basics.pdf)
-- [Git](/Netology/Git.pdf)
+- [Git — система контроля версий](/Netology/Git.pdf)
